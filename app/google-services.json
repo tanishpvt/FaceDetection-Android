@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "72613846505",
+    "firebase_url": "https://fluffy-2ea00.firebaseio.com",
+    "project_id": "fluffy-2ea00",
+    "storage_bucket": "fluffy-2ea00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72613846505:android:4de78b827f4dada2f13f78",
+        "android_client_info": {
+          "package_name": "com.tanish.pvt.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72613846505-qj0ogmni7255j6obd894npeh8fgjhgam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNrZ0XkZWTKllIR1mkun7OjFB-utqQQRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72613846505-qj0ogmni7255j6obd894npeh8fgjhgam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72613846505-s7cctp4q3spkufsmkblommc5es7lo5eu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.learnera.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
