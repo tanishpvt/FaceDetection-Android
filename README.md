@@ -1,4 +1,4 @@
-# LGMVIP-FaceDetection-Android
+#FaceDetection-Android
 
 TASK 2 :-Face detection android app using machine learning kit on firebase.
 
